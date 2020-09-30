@@ -1,2 +1,2 @@
 # cancer-detection-algorithm
-Keras-Pandas-Numpy-Tensorflow-Django teknolojilerini içeren Yapay Zeka
+Keras-Pandas-Numpy-Django-Sklearn teknolojilerini içeren Yapay Zeka
